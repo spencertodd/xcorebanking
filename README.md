@@ -1,6 +1,9 @@
 # xcorebanking
 Basic CRUD Banking Application in C++
+
 <pre>
+
+# Build instructions for Ubuntu 18
 
 # Compile individual files
 g++ -c classes/account.cpp -o classes/account.o
